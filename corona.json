@@ -1,0 +1,6 @@
+local hero = {
+    name = "Clark Kent",
+    nickname = "Superman",
+    address = "Metropolis",
+    age = 32
+}
