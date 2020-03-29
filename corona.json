@@ -1,6 +1,62 @@
-local hero = {
-    name = "Clark Kent",
-    nickname = "Superman",
-    address = "Metropolis",
-    age = 32
+{
+	"AllCounties": [
+		{
+			"India": [
+				{
+				  "date": "2020-1-22",
+				  "confirmed": 0,
+				  "deaths": 0,
+				  "recovered": 0
+				},
+				{
+				  "date": "2020-1-23",
+				  "confirmed": 0,
+				  "deaths": 0,
+				  "recovered": 0
+				},
+				{
+				  "date": "2020-1-24",
+				  "confirmed": 0,
+				  "deaths": 0,
+				  "recovered": 0
+				},
+				{
+				  "date": "2020-1-25",
+				  "confirmed": 0,
+				  "deaths": 0,
+				  "recovered": 0
+				}
+			]
+			
+		},
+		{
+			"pakistan": [
+				{
+				  "date": "2020-1-22",
+				  "confirmed": 0,
+				  "deaths": 0,
+				  "recovered": 0
+				},
+				{
+				  "date": "2020-1-23",
+				  "confirmed": 0,
+				  "deaths": 0,
+				  "recovered": 0
+				},
+				{
+				  "date": "2020-1-24",
+				  "confirmed": 0,
+				  "deaths": 0,
+				  "recovered": 0
+				},
+				{
+				  "date": "2020-1-25",
+				  "confirmed": 0,
+				  "deaths": 0,
+				  "recovered": 0
+				}
+			]
+			
+		}
+	]
 }
