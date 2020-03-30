@@ -3,57 +3,142 @@
 		{
 			"India": [
 				{
-				  "date": "2020-1-22",
-				  "confirmed": 0,
-				  "deaths": 0,
-				  "recovered": 0
+				  "date": "2020-3-27",
+				  "confirmed":540,
+				  "deaths": 12,
+				  "recovered": 42
 				},
 				{
-				  "date": "2020-1-23",
-				  "confirmed": 0,
-				  "deaths": 0,
-				  "recovered": 0
+				  "date": "2020-3-28",
+				  "confirmed": 654,
+				  "deaths": 19,
+				  "recovered": 54
 				},
 				{
-				  "date": "2020-1-24",
-				  "confirmed": 0,
-				  "deaths": 0,
-				  "recovered": 0
+				  "date": "2020-3-29",
+				  "confirmed": 756,
+				  "deaths": 22,
+				  "recovered":69 
 				},
 				{
-				  "date": "2020-1-25",
-				  "confirmed": 0,
-				  "deaths": 0,
-				  "recovered": 0
+				  "date": "2020-3-30",
+				  "confirmed": 1024,
+				  "deaths": 27,
+				  "recovered": 79
 				}
 			]
 			
 		},
 		{
-			"pakistan": [
+			"America": [
 				{
-				  "date": "2020-1-22",
-				  "confirmed": 0,
-				  "deaths": 0,
-				  "recovered": 0
+				  "date": "2020-3-27",
+				  "confirmed":540,
+				  "deaths": 12,
+				  "recovered": 42
 				},
 				{
-				  "date": "2020-1-23",
-				  "confirmed": 0,
-				  "deaths": 0,
-				  "recovered": 0
+				  "date": "2020-3-28",
+				  "confirmed": 654,
+				  "deaths": 19,
+				  "recovered": 54
 				},
 				{
-				  "date": "2020-1-24",
-				  "confirmed": 0,
-				  "deaths": 0,
-				  "recovered": 0
+				  "date": "2020-3-29",
+				  "confirmed": 756,
+				  "deaths": 22,
+				  "recovered":69 
 				},
 				{
-				  "date": "2020-1-25",
-				  "confirmed": 0,
-				  "deaths": 0,
-				  "recovered": 0
+				  "date": "2020-3-30",
+				  "confirmed": 1024,
+				  "deaths": 27,
+				  "recovered": 79
+				}
+			]
+			
+		},
+		{
+			"Italy": [
+				{
+				  "date": "2020-3-27",
+				  "confirmed":540,
+				  "deaths": 12,
+				  "recovered": 42
+				},
+				{
+				  "date": "2020-3-28",
+				  "confirmed": 654,
+				  "deaths": 19,
+				  "recovered": 54
+				},
+				{
+				  "date": "2020-3-29",
+				  "confirmed": 756,
+				  "deaths": 22,
+				  "recovered":69 
+				},
+				{
+				  "date": "2020-3-30",
+				  "confirmed": 1024,
+				  "deaths": 27,
+				  "recovered": 79
+				}
+			]
+			
+		},{
+			"Spain": [
+				{
+				  "date": "2020-3-27",
+				  "confirmed":540,
+				  "deaths": 12,
+				  "recovered": 42
+				},
+				{
+				  "date": "2020-3-28",
+				  "confirmed": 654,
+				  "deaths": 19,
+				  "recovered": 54
+				},
+				{
+				  "date": "2020-3-29",
+				  "confirmed": 756,
+				  "deaths": 22,
+				  "recovered":69 
+				},
+				{
+				  "date": "2020-3-30",
+				  "confirmed": 1024,
+				  "deaths": 27,
+				  "recovered": 79
+				}
+			]
+			
+		},{
+			"China": [
+				{
+				  "date": "2020-3-27",
+				  "confirmed":540,
+				  "deaths": 12,
+				  "recovered": 42
+				},
+				{
+				  "date": "2020-3-28",
+				  "confirmed": 654,
+				  "deaths": 19,
+				  "recovered": 54
+				},
+				{
+				  "date": "2020-3-29",
+				  "confirmed": 756,
+				  "deaths": 22,
+				  "recovered":69 
+				},
+				{
+				  "date": "2020-3-30",
+				  "confirmed": 1024,
+				  "deaths": 27,
+				  "recovered": 79
 				}
 			]
 			
